@@ -1,2 +1,2 @@
 # data_driven
-selenium project for data driver approach
+selenium project for data driven approach
